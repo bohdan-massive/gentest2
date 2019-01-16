@@ -1,0 +1,12 @@
+
+gentest2:
+  restart: always
+  image: gentest2
+  ports:
+    - "3000:3000"
+    
+  
+  
+
+
+
